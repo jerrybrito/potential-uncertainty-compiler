@@ -1,0 +1,2 @@
+# Requires: proto-postponement
+# (Not available on PyPI)
